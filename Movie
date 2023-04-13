@@ -1,23 +1,29 @@
+
+
 [
   {
-    "title": "OnePiece",
-    "year": "1999",
-    "director": "Eiichirô Oda",
-    "genre": "Anime",
-    "rating": "9.3"
+    "catId": 1,
+    "name": "Mùa xuân 1",
+    "image": "muaxuan.png"
   },
   {
-    "title": "The Godfather",
-    "year": "1972",
-    "director": "Francis Ford Coppola",
-    "genre": "Crime",
-    "rating": "9.2"
+    "catId": 2,
+    "name": "Mùa hạ 1",
+    "image": "muaha.png"
   },
   {
-    "title": "The Dark Knight",
-    "year": "2008",
-    "director": "Christopher Nolan",
-    "genre":  "Drama",
-    "rating": "9.0"
+    "catId": 3,
+    "name": "Mùa thu",
+    "image": "muathu.png"
+  },
+  {
+    "catId": 4,
+    "name": "Mùa đông",
+    "image": "muadong.png"
+  },
+  {
+    "catId": 5,
+    "name": "Mùa thi 3/6/23 13g",
+    "image": "muathi.png"
   }
 ]
